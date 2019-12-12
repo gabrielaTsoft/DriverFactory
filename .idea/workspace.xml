@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="90c93fd3-7152-4fc8-9c7b-54f35ef33f38" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="C:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1UnBLNjOKMXZrFUphslneeTV0EB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tokua\Desktop\falabella\FactoryDriver\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Test_01_prueba.test_01">
+    <configuration name="Test_01_prueba" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FactoryDriver" />
+      <option name="PACKAGE_NAME" value="cl.falabella.satt.test" />
+      <option name="MAIN_CLASS_NAME" value="cl.falabella.satt.test.Test_01_prueba" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test_01_prueba.Test_02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FactoryDriver" />
+      <option name="PACKAGE_NAME" value="cl.falabella.satt.test" />
+      <option name="MAIN_CLASS_NAME" value="cl.falabella.satt.test.Test_01_prueba" />
+      <option name="METHOD_NAME" value="Test_02" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test_01_prueba.test_01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FactoryDriver" />
+      <option name="PACKAGE_NAME" value="cl.falabella.satt.test" />
+      <option name="MAIN_CLASS_NAME" value="cl.falabella.satt.test.Test_01_prueba" />
+      <option name="METHOD_NAME" value="test_01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Test_01_prueba.test_01" />
+        <item itemvalue="JUnit.Test_01_prueba" />
+        <item itemvalue="JUnit.Test_01_prueba.Test_02" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90c93fd3-7152-4fc8-9c7b-54f35ef33f38" name="Default Changelist" comment="" />
+      <created>1575982421940</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575982421940</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2281" y="75" key="#Project_Structure" timestamp="1576094241786">
+      <screen x="1920" y="0" width="1536" height="840" />
+    </state>
+    <state x="2281" y="75" key="#Project_Structure/1920.0.1536.840/0.0.1920.1050@1920.0.1536.840" timestamp="1576094241786" />
+    <state x="522" y="219" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576161142819">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="522" y="219" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1576161142819" />
+    <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576160109549">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1576160109549" />
+    <state x="686" y="214" key="FileChooserDialogImpl" timestamp="1576154359842">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="686" y="214" key="FileChooserDialogImpl/1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1576154359842" />
+    <state x="2469" y="171" key="FileChooserDialogImpl/1920.0.1536.840/0.0.1920.1050@1920.0.1536.840" timestamp="1575982450267" />
+    <state width="1493" height="365" key="GridCell.Tab.0.bottom" timestamp="1576172277779">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="365" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1576172277779" />
+    <state width="1877" height="180" key="GridCell.Tab.0.bottom/1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1576160008829" />
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom/1920.0.1536.840/0.0.1920.1050@1920.0.1536.840" timestamp="1576098833807" />
+    <state width="1493" height="365" key="GridCell.Tab.0.center" timestamp="1576172277779">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="365" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1576172277779" />
+    <state width="1877" height="180" key="GridCell.Tab.0.center/1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1576160008829" />
+    <state width="1493" height="213" key="GridCell.Tab.0.center/1920.0.1536.840/0.0.1920.1050@1920.0.1536.840" timestamp="1576098833806" />
+    <state width="1493" height="365" key="GridCell.Tab.0.left" timestamp="1576172277779">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="365" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1576172277779" />
+    <state width="1877" height="180" key="GridCell.Tab.0.left/1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1576160008829" />
+    <state width="1493" height="213" key="GridCell.Tab.0.left/1920.0.1536.840/0.0.1920.1050@1920.0.1536.840" timestamp="1576098833806" />
+    <state width="1493" height="365" key="GridCell.Tab.0.right" timestamp="1576172277779">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="365" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1576172277779" />
+    <state width="1877" height="180" key="GridCell.Tab.0.right/1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1576160008829" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right/1920.0.1536.840/0.0.1920.1050@1920.0.1536.840" timestamp="1576098833806" />
+    <state x="461" y="166" key="SettingsEditor" timestamp="1576154363643">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="166" key="SettingsEditor/1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1576154363643" />
+    <state x="342" y="219" key="new project wizard" timestamp="1576154990248">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="342" y="219" key="new project wizard/1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1576154990248" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1576155174964">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1576155174964" />
+  </component>
+</project>

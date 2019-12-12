@@ -1,0 +1,4 @@
+cl\falabella\satut\browser\ChromeBrowser.class
+cl\falabella\satut\browser\BrowserFactory.class
+cl\falabella\satut\browser\SharedDriver$1.class
+cl\falabella\satut\browser\SharedDriver.class
