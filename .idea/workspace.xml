@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90c93fd3-7152-4fc8-9c7b-54f35ef33f38" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Browser/FireFoxBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/java/TestIdol/Test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Browser/BrowserFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Browser/BrowserFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Browser/SharedDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Browser/SharedDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cl/falabella/satut/browser/BrowserFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cl/falabella/satut/browser/ChromeBrowser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cl/falabella/satut/browser/SharedDriver$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cl/falabella/satut/browser/SharedDriver.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +67,17 @@
       <recent name="C:\Users\tokua\Desktop\falabella\FactoryDriver\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Test_01_prueba.test_01">
+  <component name="RunManager" selected="JUnit.Test01.test_01">
+    <configuration name="Test01.test_01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DriverFactory" />
+      <option name="PACKAGE_NAME" value="TestIdol" />
+      <option name="MAIN_CLASS_NAME" value="TestIdol.Test01" />
+      <option name="METHOD_NAME" value="test_01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test_01_prueba" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="FactoryDriver" />
       <option name="PACKAGE_NAME" value="cl.falabella.satt.test" />
@@ -89,6 +109,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Test01.test_01" />
         <item itemvalue="JUnit.Test_01_prueba.test_01" />
         <item itemvalue="JUnit.Test_01_prueba" />
         <item itemvalue="JUnit.Test_01_prueba.Test_02" />
@@ -138,41 +159,77 @@
     </state>
     <state x="686" y="214" key="FileChooserDialogImpl/1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1576154359842" />
     <state x="2469" y="171" key="FileChooserDialogImpl/1920.0.1536.840/0.0.1920.1050@1920.0.1536.840" timestamp="1575982450267" />
-    <state width="1493" height="365" key="GridCell.Tab.0.bottom" timestamp="1576172277779">
+    <state width="1493" height="265" key="GridCell.Tab.0.bottom" timestamp="1576186130843">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="365" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1576172277779" />
+    <state width="1493" height="265" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1576186130843" />
     <state width="1877" height="180" key="GridCell.Tab.0.bottom/1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1576160008829" />
     <state width="1493" height="213" key="GridCell.Tab.0.bottom/1920.0.1536.840/0.0.1920.1050@1920.0.1536.840" timestamp="1576098833807" />
-    <state width="1493" height="365" key="GridCell.Tab.0.center" timestamp="1576172277779">
+    <state width="1493" height="265" key="GridCell.Tab.0.center" timestamp="1576186130843">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="365" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1576172277779" />
+    <state width="1493" height="265" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1576186130843" />
     <state width="1877" height="180" key="GridCell.Tab.0.center/1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1576160008829" />
     <state width="1493" height="213" key="GridCell.Tab.0.center/1920.0.1536.840/0.0.1920.1050@1920.0.1536.840" timestamp="1576098833806" />
-    <state width="1493" height="365" key="GridCell.Tab.0.left" timestamp="1576172277779">
+    <state width="1493" height="265" key="GridCell.Tab.0.left" timestamp="1576186130843">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="365" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1576172277779" />
+    <state width="1493" height="265" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1576186130843" />
     <state width="1877" height="180" key="GridCell.Tab.0.left/1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1576160008829" />
     <state width="1493" height="213" key="GridCell.Tab.0.left/1920.0.1536.840/0.0.1920.1050@1920.0.1536.840" timestamp="1576098833806" />
-    <state width="1493" height="365" key="GridCell.Tab.0.right" timestamp="1576172277779">
+    <state width="1493" height="265" key="GridCell.Tab.0.right" timestamp="1576186130843">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="365" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1576172277779" />
+    <state width="1493" height="265" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1576186130843" />
     <state width="1877" height="180" key="GridCell.Tab.0.right/1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1576160008829" />
     <state width="1493" height="213" key="GridCell.Tab.0.right/1920.0.1536.840/0.0.1920.1050@1920.0.1536.840" timestamp="1576098833806" />
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1576186130844">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1576186130844" />
+    <state width="1493" height="265" key="GridCell.Tab.1.center" timestamp="1576186130844">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1576186130844" />
+    <state width="1493" height="265" key="GridCell.Tab.1.left" timestamp="1576186130843">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1576186130843" />
+    <state width="1493" height="265" key="GridCell.Tab.1.right" timestamp="1576186130844">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1576186130844" />
+    <state x="299" y="71" key="Maven.ArtifactSearchDialog" timestamp="1576185986130">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="299" y="71" key="Maven.ArtifactSearchDialog/0.0.1536.834@0.0.1536.834" timestamp="1576185986130" />
     <state x="461" y="166" key="SettingsEditor" timestamp="1576154363643">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="461" y="166" key="SettingsEditor/1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1576154363643" />
-    <state x="342" y="219" key="new project wizard" timestamp="1576154990248">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="274" y="174" key="new project wizard" timestamp="1576239224999">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state x="274" y="174" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1576239224999" />
     <state x="342" y="219" key="new project wizard/1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1576154990248" />
+    <state x="425" y="189" key="run.anything.popup" timestamp="1576185981187">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1576185981187" />
     <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1576155174964">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1576155174964" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Browser/FireFoxBrowser.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

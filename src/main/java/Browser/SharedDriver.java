@@ -18,7 +18,8 @@ public class SharedDriver extends EventFiringWebDriver {
         Runtime.getRuntime().addShutdownHook(CLOSE_THREAD);
         try {
             String pantalla = null;
-            REAL_DRIVER = getBrowser(pantalla);
+            String navegador = null;
+            REAL_DRIVER = getBrowser(pantalla,navegador);
         } catch (Throwable throwable) {
             throw new Error(throwable);
         }

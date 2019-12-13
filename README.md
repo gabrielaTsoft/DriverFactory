@@ -8,7 +8,11 @@
 ### Se realizan clases para manejar el driver
 
 
-[ this.driver = BrowserFactory.getBrowser("79,100");]()
+[ this.driver = BrowserFactory.getBrowser("tamaño pantalla","Navegador");]()
+[Para ocupar Chrome en navegador ingresar chrome]()
+[Para ocupar FireFOx en navegador ingresamos FireFox ]()
+
+
 
 
 [GitHub Repository]: https://github.com/bonigarcia/webdrivermanager
